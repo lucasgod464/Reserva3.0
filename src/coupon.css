@@ -1,0 +1,37 @@
+.cupomContainer {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .mostrarCupomButton {
+        background-color: #fdf5e6;
+        color: #a0522d;
+        padding: 10px 20px;
+        border: 1px solid #a0522d;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .cupomInputContainer {
+        display: flex;
+        align-items: center;
+        margin-top: 10px;
+    }
+
+    .cupomInput {
+        flex: 1;
+        padding: 10px;
+        border: 1px solid #d2b48c;
+        border-radius: 5px;
+        background-color: #fdf5e6;
+        margin-right: 5px;
+    }
+
+    .aplicarCupomButton {
+        background-color: #a0522d;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }

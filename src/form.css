@@ -1,0 +1,36 @@
+.form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .inputGroup {
+        margin-bottom: 10px;
+    }
+
+    .label {
+        display: block;
+        margin-bottom: 5px;
+        color: #704214;
+    }
+
+    .input {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #d2b48c;
+        border-radius: 3px;
+        box-sizing: border-box;
+        background-color: #fdf5e6;
+    }
+
+    .checkboxLabel {
+        display: inline-block;
+        margin-left: 10px;
+        color: #704214;
+    }
+
+    .destaque {
+        border: 1px solid #d2b48c;
+        padding: 10px;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }

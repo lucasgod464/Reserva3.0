@@ -1,0 +1,115 @@
+.pagamentoContainer {
+        margin-top: 20px;
+        padding: 15px;
+        border: 1px solid #d2b48c;
+        border-radius: 5px;
+        background-color: #fdf5e6;
+    }
+
+    .pagamentoTitle {
+        text-align: center;
+        color: #a0522d;
+        margin-bottom: 10px;
+    }
+
+    .pagamentoInfo {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .valorTotal {
+        font-weight: bold;
+        color: #704214;
+    }
+
+    .instrucao {
+        color: #704214;
+    }
+
+    .passos {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .passo {
+        display: flex;
+        margin-bottom: 15px;
+    }
+
+    .passoNumero {
+        background-color: #a0522d;
+        color: white;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 10px;
+    }
+
+    .passoConteudo {
+        flex: 1;
+    }
+
+    .passoTitulo {
+        color: #704214;
+        margin-bottom: 5px;
+    }
+
+    .pixContainer {
+        border: 1px dashed #d2b48c;
+        padding: 10px;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+
+    .pixInfo {
+        color: #704214;
+        margin-bottom: 5px;
+    }
+
+    .pixInputContainer {
+        display: flex;
+        align-items: center;
+    }
+
+    .pixInput {
+        flex: 1;
+        padding: 8px;
+        border: 1px solid #d2b48c;
+        border-radius: 3px;
+        background-color: #fdf5e6;
+        margin-right: 5px;
+    }
+
+    .copyButton {
+        background-color: #a0522d;
+        color: white;
+        padding: 8px 15px;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+
+    .copyIndicator {
+        display: flex;
+        align-items: center;
+        color: #704214;
+        margin-top: 5px;
+    }
+
+    .copyIcon {
+        margin-right: 5px;
+    }
+
+    .aviso {
+        display: none;
+        align-items: center;
+        color: green;
+        margin-top: 5px;
+    }
+
+    .avisoIcon {
+        margin-right: 5px;
+    }

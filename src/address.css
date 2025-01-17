@@ -1,0 +1,29 @@
+.addressContainer {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .addressTitle {
+        color: #a0522d;
+        margin-bottom: 10px;
+    }
+
+    .addressText {
+        color: #704214;
+        margin-bottom: 10px;
+    }
+
+    .addressButtons {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .addressButton {
+        background-color: #a0522d;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+    }

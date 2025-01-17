@@ -1,0 +1,18 @@
+.fileInputLabel {
+        display: inline-block;
+        background-color: #a0522d;
+        color: white;
+        padding: 10px 15px;
+        border-radius: 3px;
+        cursor: pointer;
+        margin-bottom: 5px;
+    }
+
+    .fileInput {
+        display: none;
+    }
+
+    .comprovanteInstrucao {
+        color: #704214;
+        font-size: 0.9em;
+    }
